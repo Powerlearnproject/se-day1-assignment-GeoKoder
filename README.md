@@ -7,6 +7,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 Sofware engineering is the designing, developing and maintenance of Software to solve problems in society.
 It is important in Technology industry because it:
 1.Enhances efficiency and productivity - by making code reusable hence preventing duplication of efforts and saving time.
@@ -14,12 +15,14 @@ It is important in Technology industry because it:
 3.Performance optimization - this is by ensuring software systems run efficiently and reliably.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1.Emergence of structured programming - Such as waterfall model for systematic software development.
 2.Emergence of object oriented programming - This led to the use of more modular and reusable code.
 3.Emergence of Cloud computing - The adoption of cloud based platforms for software development such as AWS.
 4.Emergence of Artificial Intelligence(AI) AND Machine Learning(ML) - Integration of AI and ML into software applications such as chatbots and the use of these technologies in development as well.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 1.Planning - This is definition of the project scope, timelines and resource allocation.
 2.Requirements analysis - Gathering and documentation of user needs and system functionalities.
 3.Design - Creating the software architecture, system flow, and user interface design.
