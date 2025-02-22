@@ -6,30 +6,27 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
-
+Explain what software engineering is and discuss its importance in the technology industry.<br>
 Sofware engineering is the designing, developing and maintenance of Software to solve problems in society.
 It is important in Technology industry because it:
-1.Enhances efficiency and productivity - by making code reusable hence preventing duplication of efforts and saving time.
-2.Improves data security - this is through best practices that secure data.
-3.Performance optimization - this is by ensuring software systems run efficiently and reliably.
+1.Enhances efficiency and productivity - by making code reusable hence preventing duplication of efforts and saving time.<br>
+2.Improves data security - this is through best practices that secure data.<br>
+3.Performance optimization - this is by ensuring software systems run efficiently and reliably.<br><br>
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering.<br>
+1.Emergence of structured programming - Such as waterfall model for systematic software development.<br>
+2.Emergence of object oriented programming - This led to the use of more modular and reusable code.<br>
+3.Emergence of Cloud computing - The adoption of cloud based platforms for software development such as AWS.<br>
+4.Emergence of Artificial Intelligence(AI) AND Machine Learning(ML) - Integration of AI and ML into software applications such as chatbots and the use of these technologies in development as well.<br><br>
 
-1.Emergence of structured programming - Such as waterfall model for systematic software development.
-2.Emergence of object oriented programming - This led to the use of more modular and reusable code.
-3.Emergence of Cloud computing - The adoption of cloud based platforms for software development such as AWS.
-4.Emergence of Artificial Intelligence(AI) AND Machine Learning(ML) - Integration of AI and ML into software applications such as chatbots and the use of these technologies in development as well.
-
-List and briefly explain the phases of the Software Development Life Cycle.
-
-1.Planning - This is definition of the project scope, timelines and resource allocation.
-2.Requirements analysis - Gathering and documentation of user needs and system functionalities.
-3.Design - Creating the software architecture, system flow, and user interface design.
-4.Development - Coding and implementing the software based on the design.
-5.Testing - Verifying software functionality against requirements and identifying defects. This involves solving software bugs.
-6.Deployment - Releasing the software to the production environment.
-7.Maintenance - Addressing issues, bug fixes, and updates after deployement.
+List and briefly explain the phases of the Software Development Life Cycle.<br>
+1.Planning - This is definition of the project scope, timelines and resource allocation.<br>
+2.Requirements analysis - Gathering and documentation of user needs and system functionalities.<br>
+3.Design - Creating the software architecture, system flow, and user interface design.<br>
+4.Development - Coding and implementing the software based on the design.<br>
+5.Testing - Verifying software functionality against requirements and identifying defects. This involves solving software bugs.<br>
+6.Deployment - Releasing the software to the production environment.<br>
+7.Maintenance - Addressing issues, bug fixes, and updates after deployement.<br><br>
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
